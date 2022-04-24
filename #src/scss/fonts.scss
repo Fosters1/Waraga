@@ -1,0 +1,9 @@
+@import"_mixins.scss";
+
+@import url('https://;');
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Montserrat:wght@400;500&family=Proza+Libre&family=Roboto&display=swap');
+
+
+// fonts 
+@include font("MyriadPro-Regular", "MyriadPro-Regular", "400", "normal");
+//  ^^ this example, delete after create project
